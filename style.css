@@ -1,0 +1,60 @@
+.masterdiv{
+    border: 2px solid black;
+    display: block;
+    }
+    .h1{
+        border: 2px solid blue;
+        display: inline;
+    font-size: larger;
+    text-align: center;
+    }
+    .ul1{
+        border: 2px solid red;
+        display: inline;
+        float: right;
+    }
+    .divma{
+        border: 2px solid green;
+        display:inline-block;
+        margin-right: 500px;
+    
+    }
+    .div1{
+    border:2px solid yellow;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+    .div2{
+    border:2px solid pink;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+    .div3{
+    border: 2px solid orangered;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+    .div4{
+        border: 2px solid violet;
+        display:inline-block;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        padding-right: 100px;
+        margin-right: 500px;
+    }
+    .ul2{
+        
+        border: 2px solid brown;
+    
+        
+    }
+    .div5{
+        display: block;
+        border: 2px solid black;
+        list-style: none;
+    }
+    .foot{
+    text-align: center;
+    padding-top: 50px;
+    border: 2px solid green;}
+    
